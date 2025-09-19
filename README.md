@@ -72,21 +72,11 @@ This analysis aims to address the following key questions:
 ### Project Structure
 ```
 flight-price-prediction/
-├── data/
-│   ├── raw/                    # Original dataset
-│   ├── processed/              # Cleaned and transformed data
-│   └── external/               # Additional data sources
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb  # Data preprocessing
-│   ├── 02_eda.ipynb            # Exploratory data analysis
-│   ├── 03_feature_engineering.ipynb
-│   └── 04_model_training.ipynb # Model development
-├── src/
-│   ├── data_processing.py      # Data cleaning functions
-│   ├── visualization.py        # Plotting utilities
-│   └── modeling.py             # ML model functions
-├── models/                     # Saved model files
-├── reports/                    # Analysis reports and visuals
+├── datasets/
+│   ├── bussines.csv/        
+│   ├── Clean_Data.csv/      
+│   └── economy.csv/
+├── main.ipynb
 └── README.md
 ```
 

@@ -23,7 +23,7 @@ This project provides a comprehensive analysis and predictive modeling of flight
 ## 📊 Dataset Description
 
 ### Source
-The dataset was collected from **Ease My Trip** using the **Octoparse** web scraping tool, containing flight booking records from February 11 to March 31, 2022.
+The dataset was collected from **Ease My Trip** using the **Octoparse** web scraping tool, containing flight booking records from February 11 to March 31, 2022. Available at the following link: https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction/data
 
 ### Specifications
 - **Total Records**: 300,261 flight bookings
